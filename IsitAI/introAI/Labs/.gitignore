@@ -1,0 +1,7 @@
+# Dataset (150 MB — download from Kaggle/OpenML instead of committing)
+data/creditcard.csv
+
+# Python / notebook artifacts
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
